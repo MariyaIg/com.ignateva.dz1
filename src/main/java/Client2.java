@@ -27,7 +27,7 @@ public class Client2 {
                     i++;
                     if (i==5) {
                         System.out.println("Ваш лимит на цитаты исчерпан");
-                        System.out.println("До свидания!!");
+                        System.out.println("До свидания!!!");
                     }
                 }
                 else if (number == 0) {
